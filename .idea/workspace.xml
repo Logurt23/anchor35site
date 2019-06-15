@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e74bc52-2802-4d76-b4c0-12c0b126cf61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,23 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="336" column="49" selection-start-line="336" selection-start-column="49" selection-end-line="336" selection-end-column="49" />
+            <state relative-caret-position="1530">
+              <caret line="351" column="104" selection-start-line="351" selection-start-column="104" selection-end-line="351" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -136,7 +124,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="2127" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -205,7 +192,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="85">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -215,8 +202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="336" column="49" selection-start-line="336" selection-start-column="49" selection-end-line="336" selection-end-column="49" />
+        <state relative-caret-position="1530">
+          <caret line="351" column="104" selection-start-line="351" selection-start-column="104" selection-end-line="351" selection-end-column="104" />
         </state>
       </provider>
     </entry>
