@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="222" column="137" selection-start-line="222" selection-start-column="137" selection-end-line="222" selection-end-column="137" />
+            <state relative-caret-position="816">
+              <caret line="336" column="49" selection-start-line="336" selection-start-column="49" selection-end-line="336" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -86,6 +86,13 @@
               <item name="anchor35site" type="462c0819:PsiDirectoryNode" />
               <item name="anchor" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anchor35site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anchor35site" type="462c0819:PsiDirectoryNode" />
+              <item name="anchor" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="222" column="137" selection-start-line="222" selection-start-column="137" selection-end-line="222" selection-end-column="137" />
+        <state relative-caret-position="816">
+          <caret line="336" column="49" selection-start-line="336" selection-start-column="49" selection-end-line="336" selection-end-column="49" />
         </state>
       </provider>
     </entry>
