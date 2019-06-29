@@ -1,3 +1,8 @@
 from django.shortcuts import render
 
-# Create your views here.
+# redirect to a url...
+from django.http import HttpResponseRedirect
+
+# Not uses yet...
+def homepage(request):
+    render(request, 'index.html', {})

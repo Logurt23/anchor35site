@@ -316,11 +316,62 @@
 
 <section class="business-talking"><!--business-talking-start-->
 	<div class="container">
-        <h2>Let’s Talk Business.</h2>
+        <h2 style="margin-bottom:20px">Let's Talk Business.</h2>
+        <a style="margin-bottom:20px" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target=".quote-form"> Get A Quote! </a>
     </div>
 </section><!--business-talking-end-->
 <section class="main-section contact" id="contact">
     <div class="container">
+
+
+
+<div class="modal quote-form" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <img class="img-responsive" src="/static/img/quote-header.png" />
+        <hr />
+
+
+
+            <div class="quoteform">
+                    <form action="https://formspree.io/anchor35business@gmail.com" method="POST" />
+
+                        <div class="form-group">
+                            <input type="text" name="name" class="form-control input-text" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                        </div>
+
+                        <div class="form-group">
+                            <input type="email" class="form-control input-text" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-type">What Type of project?:</label>
+                            <select class="form-control input-lg" name="project-type" id="project-type" >
+                                <option value="India">Identity or Branding</option>
+                                <option value="Sri Lanka">Basic Website</option>
+                                <option value="Sri Lanka">Pro Website</option>
+                                <option value="Sri Lanka">E-Commerce Site</option>
+                                <option value="Australia">Software Development</option>
+                                <option value="Australia">Hardware Development</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <textarea class="form-control input-text text-area" name="project-description" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Short Project Description"></textarea>
+                            <div class="validation"></div>
+                        </div>
+
+                        <div class="text-center"><button type="submit" class="input-btn">Send Message</button></div>
+            </div>
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
 
         <div class="row">
         	<div class="col-lg-6 col-sm-7 wow fadeInLeft">

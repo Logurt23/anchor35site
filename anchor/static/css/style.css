@@ -868,3 +868,11 @@ border: 2px solid #fff;
 	animation-delay: 1.2s; 
 	-webkit-animation-delay: 1.2s; 
 }
+
+/* New Stuff
+---------------------------------*/
+
+.quoteform {
+	margin: 12px;
+	padding: 6px;
+}
